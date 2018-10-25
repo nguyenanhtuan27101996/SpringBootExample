@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: NATuan3_SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: User
+Implementation-Vendor-Id: com.natuan
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/NATuan3_SpringBoot
+Created-By: Maven Integration for Eclipse
+

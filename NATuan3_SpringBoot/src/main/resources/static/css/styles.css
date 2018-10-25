@@ -1,0 +1,395 @@
+.top{
+    background-color: #ffffff;
+    width: 100%;
+    height: 80px;
+    line-height: 70px;
+    
+}
+.img-logo{
+    float: left;
+    width: 50%;
+    text-align: center;  
+}
+.hot-line{
+    float: left;
+    width: 50%;
+    text-align: left; 
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.main-content{
+    height: 700px;
+    width: 100%;
+    
+    
+}
+.main-content-child{
+    width: inherit;
+    height: 100%;
+    background: url("../img/slide.jpg") no-repeat center center;
+    background-size: 100% auto;
+    margin: 0 auto;
+    
+}
+.form-feedback{
+    width: 300px;
+    height: 100%;
+    float: right;
+    margin: 70px 120px 10px 20px;
+    background: url("../img/registe-bg.png") no-repeat center center;
+    position: relative;
+}
+#input-name{
+    margin-top: 255px;
+}
+.contains-input{
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.contains-input input{
+   margin-bottom: 5px;
+}
+.contains-input select{
+    margin-bottom: 5px;
+ }
+.main-content2{
+     width: 100%;
+     height: 600px;
+     clear: both;
+     text-align: center !important;
+     
+ }
+ .main-content2 div> span{
+     color: #89B947;
+     font-size: 25px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     
+ }
+ .contains-step-items{
+    width: 80%;
+    height: 150px;
+    margin-top: 20px !important;
+    margin: 0 auto;
+   
+ }
+ .each-item{
+     width: 22%;
+     height: 100%;
+     background-color:#E1982E;
+     float: left;
+     margin-right: 3%;
+     line-height: 150px;
+ }
+ .each-item img{
+    
+    width: 40%;
+    margin: 0 auto;
+}
+.arrow_box {
+	position: relative;
+	background: #E1982E;
+}
+.arrow_box:after, .arrow_box:before {
+	top: 85%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.arrow_box:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-top-color: #E1982E;
+	border-width: 30px;
+	margin-left: -30px;
+}
+.arrow_box:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #E1982E;
+	border-width: 36px;
+	margin-left: -36px;
+}
+
+.contains-text-items{
+    margin-top: 20px !important;
+    width: 80%;
+    height: 150px;
+    margin: 0 auto;
+}
+.each-text-item{
+    width: 22%;
+    height: 100%;
+    float: left;
+    margin-right: 3%;
+}
+.p-title{
+    color: #89B947;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.main-content3{
+    margin-top: -100px;
+    background-color: #E4E4E4;
+    width: 100%;
+    height: 500px;
+}
+.contains-title{
+    text-align: center;
+}
+.contains-title p{
+    color: #89B947;
+    font-size: 25px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.contains-benefit-items{
+    width: 80%;
+    height: 120px;
+    margin-top: 20px !important;
+    margin: 0 auto;
+   
+}
+.each-benefit-item{
+    width: 13%;
+    height: 100%;
+    float: left;
+    margin-right: 3.6%;
+}
+.contains-text-benefit-items{
+    width: 80%;
+    /* height: 150px; */
+    margin: 0 auto;
+}
+.each-text-benefit-item{
+    width: 13%;
+    height: 100%;
+    float: left;
+    margin-right: 3.6%;
+    text-align: center;
+}
+.main-content4{
+    width: 100%;
+    background: url("../img/benefit-2-bg.jpg") no-repeat repeat;
+    background-size: 100% auto;
+    height: 600px;
+}
+   
+.contains-benefit2-items{
+    width: 80%;
+    height: 210px;
+    margin-top: 20px !important;
+    margin: 0 auto;
+   
+}
+.each-benefit2-item{
+    width: 22%;
+    height: 100%;
+    float: left;
+    margin-right: 3%;
+}
+.contains-text-benefit2-items{
+    width: 80%;
+    height: 20px;
+    margin-top: 20px !important;
+    margin: 0 auto;    
+}
+.each-text-benefit2-item{
+    width: 22%;
+    height: 100%;
+    float: left;
+    margin-right: 3%;
+    text-align: center;
+}
+.p-benefit2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #f1f1f1;
+}
+.contains-text-expand-benefit2-items{
+    width: 80%;
+    height: 200px;
+    margin-top: 20px !important;
+    margin: 0 auto; 
+}
+.each-text-expand-benefit2-item{
+    width: 22%;
+    height: 100%;
+    float: left;
+    margin-right: 3%;  
+}
+.main-content5{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+}
+.contains-major-items{
+    width: 80%;
+    padding-top: 10px;
+    margin: 0 auto;
+    height: 100%;
+    
+}
+.contains-image-major{
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+.contains-text-major{
+   padding-top: 100px;
+   line-height: 100%;
+   text-align: center;
+}
+.contains-input-register{
+    width: 10%;
+    margin: 0 auto;
+}
+.main-content6{
+    margin-top: 150px;
+    width: 100%;
+    height: 400px;
+    background-color: #E4E4E4;
+    text-align: center;
+}
+.contains-university-items{
+    width: 80%;
+    height: 70px;
+    margin-top: 20px !important;
+    margin: 0 auto;
+}
+.each-university-item{
+    width: 11%;
+    height: 100%;
+    float: left;
+    margin-right: 3%;
+}
+.contains-name-university-items{
+    width: 80%;
+    height: 20px;
+    margin-top: 20px !important;
+    margin: 0 auto;
+}
+.each-name-university-item{
+    width: 11%;
+    height: 100%;
+    float: left;
+    margin-right: 3%;
+    text-align: center;
+}
+.p-small{
+    font-size: 12px;
+}
+.main-content7{
+    width: 100%;
+    height: 570px;
+    background: url("../img/Slide_bg.jpg") no-repeat repeat;
+    background-size: 100% auto;
+}
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+      display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+  /* Caption text */
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Number text (1/3 etc) */
+  .numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+  }
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+.active, .dot:hover {
+    background-color: #717171;
+}
+  
+  /* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+  
+@-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+}
+  
+@keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+}
+.main-content8{
+    background-color: orange;
+    width: 100%;
+    height: 250px;
+}
+.bottom{
+    background-color: #89B947;
+    width: 100%;
+    height: 60px;
+   
+}
